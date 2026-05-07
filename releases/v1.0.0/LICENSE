@@ -1,0 +1,393 @@
+================================================================================
+LICENCA DE USO — Simple WhatsApp Answer
+LICENSE AGREEMENT — Simple WhatsApp Answer
+
+IMPORTANTE: Este documento esta redigido em Portugues e Ingles.
+A versao em Portugues e juridicamente vinculante no territorio brasileiro.
+A versao em Ingles e fornecida para usuarios internacionais.
+
+IMPORTANT: This document is written in Portuguese and English.
+The Portuguese version is legally binding in Brazilian territory.
+The English version is provided for international users.
+
+Leia este documento integralmente antes de prosseguir com a instalacao.
+Read this document in its entirety before proceeding with the installation.
+================================================================================
+
+
+
+
+================================================================================
+PARTE I — PORTUGUES (VERSAO JURIDICAMENTE VINCULANTE)
+================================================================================
+
+LICENCA DE USO — Simple WhatsApp Answer
+
+Versao: 1.0
+Data de vigencia: 06/05/2026
+Autor: Joao Pedro Rocha Senna
+Contato: ti.senna.main@gmail.com
+
+
+1. AUTORIA E PROPRIEDADE INTELECTUAL
+
+O codigo-fonte original deste software, incluindo toda a sua arquitetura, logica de negocio e
+implementacao, e de autoria exclusiva de Joao Pedro Rocha Senna ("Autor"), protegido pela
+Lei n 9.610/1998 (Lei de Direitos Autorais do Brasil) e pelas demais legislacoes aplicaveis
+de propriedade intelectual.
+
+A utilizacao deste software nao implica cessao, transferencia ou sublicenciamento de quaisquer
+direitos de propriedade intelectual ao usuario.
+
+
+2. CONCESSAO DE LICENCA DE USO
+
+Este software e disponibilizado sob licenca proprietaria restrita. E concedido ao usuario o
+direito nao exclusivo, intransferivel e revogavel de instalar e utilizar o software para fins
+pessoais ou profissionais proprios, nas condicoes estabelecidas nesta licenca.
+
+E expressamente vedado ao usuario, sem autorizacao previa e por escrito do Autor:
+
+a) Redistribuir, sublicenciar, vender, alugar ou de qualquer forma ceder o software ou
+   copias deste a terceiros;
+
+b) Modificar, adaptar, traduzir, realizar engenharia reversa ou criar obras derivadas do
+   codigo-fonte, exceto na medida em que tal atividade seja expressamente permitida por lei;
+
+c) Remover ou alterar quaisquer avisos de direitos autorais, marcas ou identificacoes de
+   autoria presentes no software.
+
+
+3. PROTECAO DE DADOS PESSOAIS — PRINCIPIOS DA LGPD
+
+Este software foi desenvolvido em observancia aos principios da Lei Geral de Protecao de
+Dados Pessoais (LGPD — Lei n 13.709/2018) e, na medida do aplicavel, do Regulamento
+Geral sobre a Protecao de Dados (RGPD/GDPR — Regulamento (UE) 2016/679).
+
+3.1. Ausencia de Coleta ou Transmissao de Dados ao Autor
+
+Este software nao coleta, nao transmite ao Autor ou a terceiros sob controle do Autor,
+nao compartilha nem comercializa dados do usuario de nenhuma natureza.
+
+Todos os dados inseridos e gerenciados pelo usuario — incluindo nomes, numeros de telefone,
+mensagens, agendamentos e variaveis personalizadas — sao armazenados exclusivamente no
+dispositivo local do usuario. Tipicamente estes dados ficam no diretorio de dados do usuario
+do sistema operacional (por exemplo: %APPDATA%\WhatsApp Answer no Windows).
+
+O envio de mensagens pelo WhatsApp envolve, por sua propria natureza, a transmissao de
+conteudo atraves dos servidores do WhatsApp LLC. Tal transmissao e inerente ao servico do
+WhatsApp e nao constitui coleta, armazenamento ou processamento de dados por parte deste
+software ou de seu Autor. O software confia nas protecoes de seguranca nativas do sistema
+operacional. O Autor nao garante protecao absoluta; o usuario deve proteger seu dispositivo,
+credenciais, QR codes e sessoes contra acesso nao autorizado.
+
+3.2. Exportacao e Importacao Exclusivamente Manuais
+
+A transferencia de dados entre dispositivos ou para fins de backup e realizada unicamente
+de forma manual, por meio das funcionalidades de exportacao e importacao disponiveis no
+proprio software. Nenhum envio automatico, silencioso ou remoto de dados ocorre em qualquer
+circunstancia.
+
+3.3. Responsabilidade pelo Tratamento de Dados de Terceiros
+
+Na qualidade de controlador dos dados inseridos no software, o usuario e inteiramente
+responsavel pelo tratamento dos dados de terceiros (contatos, pacientes, clientes) que
+inserir na aplicacao, devendo observar as obrigacoes legais aplicaveis, em especial as
+disposicoes da LGPD quanto a finalidade, necessidade, transparencia e seguranca no tratamento
+de dados pessoais.
+
+
+4. RESPONSABILIDADE DO USUARIO
+
+Ao instalar e utilizar este software, o usuario reconhece e concorda que:
+
+a) E o unico e exclusivo responsavel pelo uso que fizer da aplicacao, incluindo o conteudo
+   das mensagens enviadas, a selecao dos destinatarios e a finalidade de cada comunicacao;
+
+b) E responsavel pela legalidade de todas as comunicacoes enviadas por meio deste software,
+   comprometendo-se a nao utiliza-lo para a pratica de qualquer ato ilicito;
+
+c) Compromete-se a nao utilizar este software para cometer crimes, contravencoes penais ou
+   infracoes civis;
+
+d) Concorda em nao utilizar este software de forma contraria as Diretrizes de Uso Aceitavel
+   do WhatsApp e aos Termos de Servico do WhatsApp.
+
+
+5. RESTRICOES DE USO
+
+Este software nao oferece, nao possibilita e nao foi projetado para suportar:
+
+a) Automacao de envio em larga escala, spam ou comunicacao nao-pessoal;
+
+b) Envio em massa de mensagens;
+
+c) Contornar, burlar ou violar controles, limitacoes ou politicas do WhatsApp.
+
+Qualquer uso que resulte nas praticas acima e estritamente proibido e e de responsabilidade
+exclusiva do usuario.
+
+
+6. USO MODERADO E AGENDAMENTO RESPONSAVEL
+
+Este software disponibiliza funcionalidades de agendamento projetadas para o uso pessoal,
+profissional e moderado, com as seguintes salvaguardas tecnicas:
+
+- Uma mensagem por agendamento: cada agendamento esta vinculado a um unico destinatario;
+- Intervalo aleatorio entre envios: o servico aplica automaticamente um intervalo aleatorio;
+- Sem disparo em massa: a aplicacao nao oferece mecanismo para envio simultaneo em massa.
+
+
+7. COMPONENTES DE TERCEIROS
+
+- Electron — licenca MIT
+- whatsapp-web.js — licenca Apache 2.0
+- node-sqlite3-wasm — licenca MIT
+- node-cron — licenca MIT
+- Tailwind CSS — licenca MIT
+
+
+8. NOTA SOBRE O WHATSAPP
+
+Este software utiliza a biblioteca de codigo aberto whatsapp-web.js, que opera como cliente
+nao oficial do WhatsApp Web. O WhatsApp LLC e a Meta Platforms, Inc. nao endossam,
+autorizam nem sao afiliados a este software.
+
+O uso e feito por conta e risco do usuario.
+
+
+9. INDENIZACAO
+
+O usuario concorda em indenizar, defender e isentar o Autor de quaisquer reclamacoes,
+responsabilidades, danos, perdas, custos e despesas decorrentes de uso indevido ou ilegal
+do software pelo usuario.
+
+
+10. ISENCAO DE GARANTIAS
+
+Este software e fornecido "no estado em que se encontra" (as is), sem qualquer garantia
+expressa ou implicita.
+
+
+11. LIMITACAO DE RESPONSABILIDADE
+
+Na maxima extensao permitida pela lei aplicavel, o Autor nao sera responsavel por quaisquer
+danos diretos, indiretos, incidentais, especiais, consequenciais ou punitivos resultantes
+do uso ou da impossibilidade de uso deste software.
+
+
+12. LEGISLACAO APLICAVEL E FORO
+
+Esta licenca e regida pelas leis da Republica Federativa do Brasil, em especial:
+
+- Lei n 9.610/1998 — Lei de Direitos Autorais
+- Lei n 10.406/2002 — Codigo Civil Brasileiro
+- Lei n 13.709/2018 — Lei Geral de Protecao de Dados (LGPD)
+- Lei n 12.965/2014 — Marco Civil da Internet
+
+Fica eleito o foro da comarca de Curitiba/PR para dirimir quaisquer controversias
+decorrentes desta licenca.
+
+
+ACEITACAO DOS TERMOS
+
+Ao instalar, executar ou utilizar este software, o usuario declara ter lido, compreendido e
+aceitado os termos desta licenca.
+
+
+ATUALIZACOES DOS TERMOS
+
+O Autor pode revisar esta licenca periodicamente. As versoes atualizadas serao publicadas no
+repositorio oficial do projeto. O uso continuado do software apos a publicacao de alteracoes
+constitui aceitacao tacita dos novos termos.
+
+
+CONTROLE DE EXPORTACAO E SANCOES
+
+O usuario concorda em cumprir todas as leis aplicaveis de controle de exportacao, sancoes e
+regimes de embargo.
+
+
+CONTATO PARA RECLAMACOES DE PROPRIEDADE INTELECTUAL
+
+Reclamacoes relativas a propriedade intelectual devem ser enviadas para:
+ti.senna.main@gmail.com
+
+Copyright (c) 2026 Joao Pedro Rocha Senna. Todos os direitos reservados.
+
+
+
+
+================================================================================
+PART II — ENGLISH
+================================================================================
+
+SOFTWARE LICENSE — Simple WhatsApp Answer
+
+Version: 1.0
+Effective Date: May 6, 2026
+Author: Joao Pedro Rocha Senna
+Contact: ti.senna.main@gmail.com
+
+
+1. AUTHORSHIP AND INTELLECTUAL PROPERTY
+
+The original source code of this software, including its entire architecture, business logic,
+and implementation, is the exclusive work of Joao Pedro Rocha Senna ("Author"), protected
+under Brazilian Law No. 9,610/1998 (Copyright Law of Brazil) and all other applicable
+intellectual property legislation.
+
+Use of this software does not imply the assignment, transfer, or sublicensing of any
+intellectual property rights to the user.
+
+
+2. LICENSE GRANT
+
+This software is made available under a restricted proprietary license. The user is granted
+a non-exclusive, non-transferable, revocable right to install and use the software for
+personal or professional purposes, subject to the conditions set forth in this license.
+
+The following actions are expressly prohibited without the Author's prior written authorization:
+
+a) Redistributing, sublicensing, selling, renting, or otherwise transferring the software
+   or copies thereof to third parties;
+
+b) Modifying, adapting, translating, reverse engineering, or creating derivative works from
+   the source code, except to the extent expressly permitted by applicable law;
+
+c) Removing or altering any copyright notices, trademarks, or authorship identifiers
+   present in the software.
+
+
+3. PERSONAL DATA PROTECTION — LGPD PRINCIPLES
+
+This software was developed in observance of the principles of the Brazilian General Data
+Protection Law (LGPD — Law No. 13,709/2018) and, to the extent applicable, the General
+Data Protection Regulation (GDPR — Regulation (EU) 2016/679).
+
+3.1. No Collection or Transmission of Data to the Author
+
+This software does not collect, transmit to the Author or to any third party under the
+Author's control, share, or commercialize user data of any kind.
+
+All data entered and managed by the user — including names, phone numbers, messages,
+appointments, and custom variables — is stored exclusively on the user's local device.
+
+3.2. Exclusively Manual Export and Import
+
+The transfer of data between devices or for backup purposes is performed solely through
+manual operations using the export and import features available within the software.
+
+3.3. Responsibility for Processing Third-Party Data
+
+As the controller of the data entered into the software, the user bears full and sole
+responsibility for the processing of third-party personal data entered into the application.
+
+
+4. USER RESPONSIBILITY
+
+By installing and using this software, the user acknowledges and agrees that:
+
+a) The user is the sole and exclusive party responsible for how the application is used;
+
+b) The user is responsible for the legality of all communications sent through this software;
+
+c) The user undertakes not to use this software to commit crimes or civil offenses;
+
+d) The user agrees not to use this software contrary to the WhatsApp Acceptable Use Policy
+   and WhatsApp Terms of Service.
+
+
+5. USE RESTRICTIONS
+
+This software does not offer, enable, or was designed to support:
+
+a) Large-scale automated sending, spam, or non-personal communication;
+
+b) Mass messaging;
+
+c) Circumventing, bypassing, or violating controls or policies imposed by WhatsApp.
+
+
+6. MODERATE USE AND RESPONSIBLE SCHEDULING
+
+This software provides scheduling features designed for personal, professional, and moderate
+use, with the following technical safeguards:
+
+- One message per appointment: each appointment is linked to a single recipient;
+- Random delay between sends: the scheduling service automatically applies a random interval;
+- No mass dispatch: the application provides no mechanism for simultaneous bulk sending.
+
+
+7. THIRD-PARTY COMPONENTS
+
+- Electron — MIT License
+- whatsapp-web.js — Apache License 2.0
+- node-sqlite3-wasm — MIT License
+- node-cron — MIT License
+- Tailwind CSS — MIT License
+
+
+8. NOTE ON WHATSAPP
+
+This software uses the open-source library whatsapp-web.js, which operates as an unofficial
+WhatsApp Web client. WhatsApp LLC and Meta Platforms, Inc. do not endorse, authorize, or
+have any affiliation with this software. Use is at the user's own risk.
+
+
+9. INDEMNIFICATION
+
+The user agrees to indemnify, defend, and hold the Author harmless from and against any
+claims, liabilities, damages, losses, costs, and expenses arising out of improper or
+unlawful use of the software by the user.
+
+
+10. DISCLAIMER OF WARRANTIES
+
+This software is provided "as is", without any express or implied warranty.
+
+
+11. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Author shall not be liable for any
+direct, indirect, incidental, special, consequential, or punitive damages arising out of or
+related to the use of or inability to use this software.
+
+
+12. GOVERNING LAW AND JURISDICTION
+
+This license is governed by the laws of the Federative Republic of Brazil, in particular:
+
+- Law No. 9,610/1998 — Brazilian Copyright Law
+- Law No. 10,406/2002 — Brazilian Civil Code
+- Law No. 13,709/2018 — General Data Protection Law (LGPD)
+- Law No. 12,965/2014 — Brazilian Internet Civil Framework (Marco Civil da Internet)
+
+The courts of the district of Curitiba, Parana, Brazil are elected as the exclusive
+jurisdiction to resolve any disputes arising from this license.
+
+
+ACCEPTANCE OF TERMS
+
+By installing, executing or using this software, the user acknowledges that they have read,
+understood and agreed to these license terms.
+
+
+UPDATES TO THESE TERMS
+
+The Author may revise these terms from time to time. Updated versions will be published in
+the project's official repository.
+
+
+EXPORT CONTROL AND SANCTIONS
+
+The user agrees to comply with all applicable export control and sanctions laws.
+
+
+INTELLECTUAL PROPERTY CLAIMS CONTACT
+
+Claims regarding intellectual property should be sent to: ti.senna.main@gmail.com
+
+
+Copyright (c) 2026 Joao Pedro Rocha Senna. All rights reserved.
+================================================================================
